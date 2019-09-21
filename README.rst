@@ -1,10 +1,7 @@
-Sample Module Repository
+Thing Processor
 ========================
 
-This simple project is an example repo for Python projects.
-
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+This project will begin as a tool to manage files on a disk using simple rules such as organizing the files in directory by type or extension. The long term goal for this project is to provide the capability to add additional capabilities via plugins, so that a non-technical user can keep their files organized, backed up, synchronized, etc. using simple rules defined with a web based interface. 
 
 ---------------
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
